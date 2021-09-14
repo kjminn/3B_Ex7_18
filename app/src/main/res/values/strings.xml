@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">3B_Ex7_18</string>
+    <string name="btn_item">일반목록 대화상자</string>
+    <string name="btn_item_single">라디오목록 대화상자</string>
+</resources>
